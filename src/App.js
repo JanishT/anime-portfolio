@@ -16,7 +16,7 @@ function App() {
         alignItems: "center",
       }}
     >
-      Coming soon...
+      Checking ...
     </div>
   );
 }
